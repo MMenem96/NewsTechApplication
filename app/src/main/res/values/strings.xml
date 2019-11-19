@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News Tech Application</string>
+    <string name="text_tech_news">Tech News</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_cyber_security">CYBERSECURITY</string>
+    <string name="ai">AI</string>
+    <string name="text_news_title">News Title</string>
+</resources>
